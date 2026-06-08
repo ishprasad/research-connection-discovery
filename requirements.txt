@@ -1,0 +1,9 @@
+transformers
+sentence-transformers
+networkx
+spacy
+scikit-learn
+fastapi 
+uvicorn
+arxiv 
+accelerate
